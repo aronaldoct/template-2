@@ -1,0 +1,29 @@
+{
+    "name": "Portafolio2",
+    "short_name": "PT",
+    "description": "Propuesta 2 de portafolio para docente",
+    "background_color": "#303F9F",
+    "theme_color": "#303F9F",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+        {
+          "src": "../img/pwa/portafolio.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+            "src": "../img/pwa/portafolio1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "../img/pwa/portafolio2.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+  }
